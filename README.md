@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://roadmap.sh/card/wide/67138a78791f57dd60e51a0b?variant=dark&roadmaps=linux%2Ccpp
+[![roadmap.sh](https://roadmap.sh/card/wide/67138a78791f57dd60e51a0b?variant=dark&roadmaps=linux%2Ccpp)](https://roadmap.sh)
 
 **ting-xin/ting-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
